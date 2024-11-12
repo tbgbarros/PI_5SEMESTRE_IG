@@ -1,34 +1,28 @@
-# PI_5SEMESTRE_IG
+# pi5_app_manaciais
 
-app igreja mananciais
+A new Flutter project.
 
-Objetivos
+## Getting Started
 
-atrair pessoas a usarem app
-cadastro de membros ( idosos ) - logar sem senha via google
-ministerios - casais - infantil - dança - jovens adol - midia - intercesão - louvor e varoes
-  - todos - livros dentro do app
-    -  galeria de fotos para ministerios
-    -  
------------------------------------------------------------------------------------------------------------------------
-    
-  - infantil [ ferramentas alternativas - jogos e videos ] 
-  - jovens - galeria de fotos para ministerios  [ quiz - estudos ]
-  - adultos - galeria de fotos para ministerios de casais- [ presenca de casais  ] - depoimentos com aprovação [ publico ]
-  - danca - artigos [ videos e textos ]
-  - midia [ pagina inicial postagens  ]
-  - 
-  - 
------------------------------------------------------------------------------------------------------------------------
-requisitos funcionais
+This project is a starting point for a Flutter application.
 
-  -  requencia de atualizacao pelo administradores
-  -  cada pessoa login unico separado
-  -  login padrao com acessos limitados e administradores 
-  -  gerar certicados automatico  [ batismo - casamento - apresentacao de filhos - cursos ]
-  -  home page com posts e redirecionamento rede sociais
-  -  emails automaticos aniversariantes
-  -  espaço de pedido de oração - whatsapp ou push
-arrecadações
-check-in diario
-escalas de vigilancia [ trabalho - agenda de louvores e trabalhos ]
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+### Analise Competiviva
+
+Analise competitiva realizada com apps similares. 
+
+- [Analise competitiva](https://www.figma.com/board/FMEU16lpH66k9vsuMcfL67/Analise-competitiva-IMA?node-id=0-1&t=cdNgwQoAejYk58m8-1)
+
+### Definir Funcionalidades do Feed
+
+Definir funcionalidades do feed com base na analise competitiva.
+
+- [Definir funcionalidades do feed.docx](https://github.com/user-attachments/files/17300257/Definir.funcionalidades.do.feed.docx)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
